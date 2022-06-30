@@ -3,6 +3,7 @@
   background: papayawhip;
   display: flex;
   justify-content: space-between;
+  /* Solution - align-items set to center here */
 }
 
 .logo {
@@ -11,7 +12,7 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  align-self: center;
+  align-self: center; /* Solution - this isn't needed */
 }
 
 ul {
