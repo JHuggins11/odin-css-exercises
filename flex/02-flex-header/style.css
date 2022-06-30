@@ -20,6 +20,7 @@ ul {
   display: flex;
   padding: 15px;
   gap: 15px;
+  /* Solution - margin and padding should both be set to 0 here */
 }
 
 a {
