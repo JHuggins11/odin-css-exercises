@@ -20,6 +20,8 @@ img {
 
 .plant {
   gap: 52px;
+  max-width: 200px;
+  flex-wrap: wrap;
 }
 
 /* do not edit this footer */
