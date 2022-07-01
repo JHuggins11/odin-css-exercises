@@ -15,10 +15,11 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  gap: 32px;
 }
 
 .plant {
-  
+  gap: 52px;
 }
 
 /* do not edit this footer */
