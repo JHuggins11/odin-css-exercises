@@ -70,3 +70,7 @@ button.cancel {
 .top, .bottom {
   display: flex;
 }
+
+.push {
+  margin-left: auto;
+}
