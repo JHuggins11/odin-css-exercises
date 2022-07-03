@@ -67,5 +67,6 @@ body {
   border-radius: 4px;
   /*display: inline-flex;*/
   max-width: 400px;
+  max-height: 350px;
   flex-wrap: wrap;
 }
