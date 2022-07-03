@@ -69,10 +69,15 @@ button.cancel {
 
 /* Attempt */
 .left {
-  margin-right: 12px;
+  margin-right: 16px;
 }
 
 .header {
   font-weight: bold;
   font-size: larger;
+  margin-bottom: 12px;
+}
+
+.text {
+  margin-bottom: 12px;
 }
