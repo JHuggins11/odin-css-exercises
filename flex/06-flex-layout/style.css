@@ -27,6 +27,10 @@ input {
 }
 
 /* Attempt */
+ul {
+  list-style-type: none;
+}
+
 .header {
   display: flex;
   align-items: flex-start;
