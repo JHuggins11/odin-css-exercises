@@ -22,6 +22,7 @@ body {
   background: #eee;
   color: darkmagenta;
   display: flex;
+  margin-top: auto;
 }
 
 .sidebar {
