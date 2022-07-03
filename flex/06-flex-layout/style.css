@@ -38,7 +38,7 @@ ul {
   display: flex;
   align-items: flex-start;
   margin-bottom: auto;
-  padding: 4px;
+  padding: 4px 20px;
 }
 
 .content {
@@ -52,7 +52,7 @@ ul {
   display: flex;
   align-items: flex-end;
   margin-top: auto;
-  padding: 4px;
+  padding: 4px 20px;
 }
 
 .left-links, .right-links {
