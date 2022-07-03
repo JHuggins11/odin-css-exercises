@@ -37,6 +37,11 @@ button {
   padding: 10px;
 }
 
+a {
+  text-decoration: none;
+  color: #444444;
+}
+
 .header {
   display: flex;
   align-items: flex-start;
@@ -62,7 +67,7 @@ button {
 
 .left-links, .right-links {
   display: flex;
-  gap: 16px;  
+  gap: 16px;
 }
 
 .right-links {
