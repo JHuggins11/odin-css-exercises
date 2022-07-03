@@ -25,7 +25,6 @@ input {
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
-  margin-bottom: 16px;
 }
 
 /* Attempt */
@@ -50,6 +49,7 @@ button {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  gap: 16px;
 }
 
 .footer {
