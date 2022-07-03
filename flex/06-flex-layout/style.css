@@ -31,12 +31,14 @@ input {
 /* Attempt */
 ul {
   list-style-type: none;
+  padding: 0;
 }
 
 .header {
   display: flex;
   align-items: flex-start;
   margin-bottom: auto;
+  padding: 4px;
 }
 
 .content {
@@ -50,9 +52,14 @@ ul {
   display: flex;
   align-items: flex-end;
   margin-top: auto;
+  padding: 4px;
 }
 
 .left-links, .right-links {
   display: flex;
-  gap: 16px;
+  gap: 16px;  
+}
+
+.right-links {
+  margin-left: auto;
 }
