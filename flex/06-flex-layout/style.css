@@ -51,3 +51,8 @@ ul {
   align-items: flex-end;
   margin-top: auto;
 }
+
+.left-links, .right-links {
+  display: flex;
+  gap: 16px;
+}
